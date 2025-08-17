@@ -1,0 +1,162 @@
+*{
+margin: 0px;
+}
+body{
+     background-color:wheat;
+}
+.contener{
+    background-color: blue;
+  display: flex;
+  height: 160px;
+  border-radius: 20px;
+  
+}
+.a{
+  background-color: #1a253f;
+  
+ width: 20%;
+ padding-left: 58px;
+}
+.ab{
+  background-color: #1a253f;
+   
+  width: 80%;
+  color: aliceblue;
+  font-size: 30px;
+  text-align: justify;
+  padding-top: 50px;
+}
+#img{
+  width: 150px;
+  padding: 5px;
+  padding-bottom: 5px;
+  border-radius: 100px;
+}
+
+.contener2{
+background-color: chocolate;
+gap:px ;
+display: flex;
+}
+.b{
+ background-color: #0c212c;
+  color: rgb(101, 150, 194);
+ width: 60%;
+ height: 540px;
+  padding-left:50px;
+}
+.b li{
+  width: 30px;
+  height: 40px;
+  color: aliceblue;
+}
+
+   .btn {
+       padding: 10px 20px;
+       border-radius: 5px ;
+       border: #0e4b6b solid 1px;
+         transition: all 0.3s;
+        
+       color: white;
+       text-decoration: none;
+   }
+   .btn:hover{
+   background:  #0e4b6b;
+   }
+     #a {
+       border-bottom: double pink;
+       font-size: 2em;
+       color: aliceblue;
+   }
+
+   #b {
+       color: aqua;
+       font-size: 2em;
+   }
+.c{
+ background-color: #0c212c;
+  color: rgb(101, 150, 194);
+ width: 40%;
+  height: 540px;
+   
+   padding-left: 50px;
+   
+}
+.d{
+ background-color: rgb(49, 44, 37);
+ width: 100%;
+  height: 30px;
+  color: aliceblue;
+  text-align: center;
+  padding-top: 10px;
+}
+#dev{
+  width: 350px;
+  padding-top: 10px;
+}
+
+    ul{
+      display: flex;
+      list-style: none;
+      gap: 30px;
+      color: aliceblue;
+      text-decoration:none ;
+      color: aliceblue;
+    }
+    ul li i:hover{
+      color: cornflowerblue;
+    }
+    
+    ul li i {
+    font-size: 30px;
+    color: aliceblue;
+     transition: all 0.3s;
+    
+}
+.big{
+  padding: 20px 50px 0px 50px;
+  background-color: #151A33;
+}
+.cpng{
+  height: 70px;
+
+}
+.cpng ol{
+  display: flex;
+  list-style: none;
+  gap: 150px;
+  justify-content: center;
+  padding-top: 5px;
+}
+.cpng img{
+  width: 50px;
+  height: 50px;
+}
+.footer{
+  height: 150px;
+  color:aliceblue;
+    background-color: #363838;
+}
+.footer li{
+  padding-top: 10px;
+  text-decoration: none;
+    transition: all 0.3s;
+}
+.footer a{
+  text-decoration: none;
+  color: aliceblue;
+  
+    transition: all 0.3s;
+
+}
+.footer a:hover{
+  border-bottom: 2px solid cornflowerblue;
+  color:cornflowerblue ;
+}
+#more{
+  color: blue;
+}
+#more2{
+  color:  rgb(101, 150, 194);
+}
+
