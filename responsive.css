@@ -20,7 +20,8 @@
   .c {
     width: 95%;
     height: auto;
-    font-size: 25px;
+    font-size: 30px;
+    
   }
 
 
@@ -85,3 +86,4 @@ ul li i{
   gap: 60px;
 }
 }
+
